@@ -1,2 +1,2 @@
-# Projets-GMS-Enterprise
-Site web pour le projet GMS Enterprise
+GMS-Enterprise
+Découvrez GMS enterprise
